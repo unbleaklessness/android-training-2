@@ -1,0 +1,1 @@
+Based on [Android Kotlin Beginner Tutorial (Google I/O '17)](https://www.youtube.com/watch?v=sZWMPYIkNd8).
